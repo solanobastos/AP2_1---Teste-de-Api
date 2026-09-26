@@ -90,3 +90,4 @@ src/dominio/matricula.ts criar e trancar, em transação, na ordem de avaliaçã
 src/servico-historico.ts dublê do serviço externo (spec §7)
 src/rotas.ts             todos os endpoints
 ```
+# AP2_1---Test-de-Api
