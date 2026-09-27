@@ -95,3 +95,4 @@ src/rotas.ts             todos os endpoints
 # AP2_1---Test-de-Api
 # AP2_1---Test-de-Api
 # AP2_1---Test-de-Api
+# AP2_1---Teste-de-Api
