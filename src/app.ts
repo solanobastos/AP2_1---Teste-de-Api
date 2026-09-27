@@ -32,4 +32,4 @@ const tratarErro: ErrorRequestHandler = (err, _req, res, _next) => {
   });
 };
 app.use(tratarErro);
-export default app;
+export  {app};
